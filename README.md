@@ -110,7 +110,8 @@ Vespa I x2
 Baryon Exotic Plasma S x2000
 Meson Exotic Plasma S x4000
 Occult S x1825
-Mystic S x2000```
+Mystic S x2000
+```
 - Go in → lock → double-web → shoot
 - Use drones
 
